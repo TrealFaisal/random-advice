@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-advice/static/css/main.9ab114a0.css",
+    "main.js": "/random-advice/static/js/main.2deaff67.js",
+    "index.html": "/random-advice/index.html",
+    "main.9ab114a0.css.map": "/random-advice/static/css/main.9ab114a0.css.map",
+    "main.2deaff67.js.map": "/random-advice/static/js/main.2deaff67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab114a0.css",
+    "static/js/main.2deaff67.js"
+  ]
+}
